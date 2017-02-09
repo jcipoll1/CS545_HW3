@@ -42,3 +42,7 @@ $ git add -A
 $ git commit -am "YOUR NOTE"
 $ git push -u origin master
 $ git push heroku master
+
+# 4) Problems and Solutions
+If running into a sub module where it is a grey folder on github follow: 
+http://stackoverflow.com/questions/1759587/un-submodule-a-git-submodule
