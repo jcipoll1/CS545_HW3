@@ -1,0 +1,32 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+http://stackoverflow.com/questions/18549107/which-ruby-version-am-i-really-running
+gem install rails -v 4.2.6
+https://github.com/saasbook/courseware/wiki/Setting-up-Cloud9
+* System dependencies
+
+* Configuration
+http://stackoverflow.com/questions/15200165/how-to-use-the-debugger-with-ruby-2-0
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+rake routes
+* Deployment instructions
+bundle install
+rails server -p $PORT -b $IP
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
