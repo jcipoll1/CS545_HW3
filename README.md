@@ -14,8 +14,8 @@ $ cat ~/.ssh/id_rsa.pub
 Copy and paste the output of cat and create new Key
 https://github.com/settings/keys
 
-Bash at workspace level First Time
-$ echo "# Test" >> README.md
+Bash at workspace level First Time \n
+$ echo "# Test" >> README.md \n
 $ git init
 $ git add README.md
 $ git commit -m "first commit"
